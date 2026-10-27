@@ -5,7 +5,7 @@ namespace MidtermExam.Prob01
 {
     public class VowelCounter
     {
-        /// <summary>
+        /// <summary> 
         /// ข้อ 01: นับจำนวนสระภาษาอังกฤษตัวพิมพ์เล็กในคิว โดยใช้หลัก FIFO
         /// (สมาชิกที่เข้าก่อนออกก่อน) และรักษาสมาชิกกับลำดับของคิวเดิม
         /// </summary>
